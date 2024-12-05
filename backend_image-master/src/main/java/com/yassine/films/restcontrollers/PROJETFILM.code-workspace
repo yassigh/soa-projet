@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../../.."
+		},
+		{
+			"path": "../../../../../../../../../../../Downloads/spring-authentification-dev"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
